@@ -1,0 +1,101 @@
+﻿@model ColoradoWebApp.Models.ContatoViewModel
+
+@{
+    ViewData["Title"] = "Alterar";
+}
+
+@*
+<h1>Alterar</h1>
+
+
+<hr />
+*@
+
+
+<!DOCTYPE html>
+<html lang="pt-br" class="body-full-height">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Portal Services Aegea</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link href="~/css/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div class="row">
+    <div class="col-md-4">
+
+        @using (Html.BeginForm("Alterar", "Home", FormMethod.Post))
+        {
+            
+            <form asp-action="Alterar">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="id" class="control-label">Código</label>
+                    <input asp-for="id" class="form-control" placeholder="Código" readonly="true"/>
+                   @* <span asp-validation-for="id" class="text-danger"></span>*@
+                </div>
+                <div class="form-group">
+                    <label asp-for="nome" class="control-label">Nome</label>
+                    <input asp-for="nome" class="form-control" placeholder="Nome" />
+                    @*<span asp-validation-for="nome" class="text-danger"></span>*@
+                </div>
+                <div class="form-group">
+                    <label asp-for="endereco" class="control-label">Endereço</label>
+                    <input asp-for="endereco" class="form-control" placeholder="Endereço" />
+                   @* <span asp-validation-for="endereco" class="text-danger"></span>*@
+                </div>
+                <div class="form-group">
+                    <label asp-for="cidade" class="control-label">Cidade</label>
+                    <input asp-for="cidade" class="form-control" placeholder="Cidade" />
+                  @*  <span asp-validation-for="cidade" class="text-danger"></span>*@
+                </div>
+                <div class="form-group col-3">
+                    <label asp-for="uf" class="control-label">Uf</label>
+                    <input asp-for="uf" class="form-control" placeholder="UF" />
+                 @*   <span asp-validation-for="uf" class="text-danger"></span>*@
+                </div>
+                <div class="form-group">
+                    <label asp-for="datacadastro" class="control-label">Data de Cadastro</label>
+                    <input asp-for="datacadastro" class="form-control" />
+                    @*<span asp-validation-for="datacadastro" class="text-danger"></span>*@
+                </div>
+                <br/>
+                <br />
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        }
+    </div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div>
+    <a asp-action="Index" class="btn btn-primary">Voltar</a>
+</div>
+</body>
+</html>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

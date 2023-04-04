@@ -1,0 +1,28 @@
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\bin\Debug\net6.0\Colorado.Business.deps.json
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\bin\Debug\net6.0\Colorado.Business.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\bin\Debug\net6.0\Colorado.Business.pdb
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.csproj.AssemblyReference.cache
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.AssemblyInfoInputs.cache
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.AssemblyInfo.cs
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.csproj.CoreCompileInputs.cache
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\refint\Colorado.Business.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.pdb
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\ref\Colorado.Business.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.Properties.Resources.resources
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.csproj.GenerateResource.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\bin\Debug\net6.0\Colorado.Business.deps.json
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\bin\Debug\net6.0\Colorado.Business.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\bin\Debug\net6.0\Colorado.Business.pdb
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.csproj.AssemblyReference.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.Properties.Resources.resources
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.csproj.GenerateResource.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.AssemblyInfoInputs.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.AssemblyInfo.cs
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.csproj.CoreCompileInputs.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\refint\Colorado.Business.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\Colorado.Business.pdb
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Business\obj\Debug\net6.0\ref\Colorado.Business.dll

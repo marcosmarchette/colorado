@@ -1,0 +1,63 @@
+﻿@model ColoradoWebApp.Models.ContatoViewModel
+
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<h1>Cadastro</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("Inserir", "Home", FormMethod.Post))
+    {
+
+        <form asp-action="Cadastro">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="id" class="control-label">Código</label>
+                <input asp-for="id" class="form-control" maxlength="20" disabled="disabled"/>
+                <span asp-validation-for="id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nome" class="control-label">Nome</label>
+                <input asp-for="nome" class="form-control" maxlength="200"/>
+                <span asp-validation-for="nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="endereco" class="control-label">Endereço</label>
+                <input asp-for="endereco" class="form-control" maxlength="200"/>
+                <span asp-validation-for="endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cidade" class="control-label">Cidade</label>
+                <input asp-for="cidade" class="form-control" maxlength="100"/>
+                <span asp-validation-for="cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group col-3">
+                <label asp-for="uf" class="control-label">Uf</label>
+                <input asp-for="uf" class="form-control" maxlength="2"/>
+                <span asp-validation-for="uf" class="text-danger"></span>
+            </div>
+
+            <br/>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" title="Salvar"/>
+            </div>
+        </form>
+    }
+    </div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div>
+    <a asp-action="Index" class="btn btn-primary">Retornar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

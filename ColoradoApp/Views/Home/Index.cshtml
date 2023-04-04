@@ -1,0 +1,69 @@
+﻿@model Model.
+
+@{
+    ViewData["Title"] = "Contatos";
+}
+
+<table class="table">
+    <thead>
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.IdCliente)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco)
+        </th>
+       @* <th>
+            @Html.DisplayNameFor(model => model.Complemento)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Cidade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Uf)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.DtCadastro)
+        </th>*@
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+      
+    @foreach (var item in Model) {
+        <tr>
+           @* <td>
+                @Html.DisplayFor(modelItem => item.IdCliente)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Endereco)
+            </td>
+          @*  <td>
+                @Html.DisplayFor(modelItem => item.Complemento)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Cidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Uf)
+            </td>
+           @* <td>
+                @Html.DisplayFor(modelItem => item.DtCadastro)
+            </td>*@
+            <td>
+               @* @Html.ActionLink("Edit", "Edit", new {id=item.IdCliente }) |*@
+              @*  @Html.ActionLink("Delete", "ExcluirCliente", new { id=item.IdCliente  })*@
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+
+

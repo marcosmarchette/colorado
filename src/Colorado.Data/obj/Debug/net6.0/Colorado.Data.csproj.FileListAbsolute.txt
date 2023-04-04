@@ -1,0 +1,30 @@
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Data.deps.json
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Data.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Data.pdb
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Business.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Business.pdb
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.csproj.AssemblyReference.cache
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.AssemblyInfoInputs.cache
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.AssemblyInfo.cs
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.csproj.CoreCompileInputs.cache
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.csproj.CopyComplete
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\refint\Colorado.Data.dll
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.pdb
+E:\VisualStudio2022\API Sem Autenticacao\6.0\src\Colorado.Data\obj\Debug\net6.0\ref\Colorado.Data.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Data.deps.json
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Data.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Data.pdb
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Business.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\bin\Debug\net6.0\Colorado.Business.pdb
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.csproj.AssemblyReference.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.AssemblyInfoInputs.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.AssemblyInfo.cs
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.csproj.CoreCompileInputs.cache
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.csproj.CopyComplete
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\refint\Colorado.Data.dll
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\Colorado.Data.pdb
+E:\VisualStudio2022\ColoradoCrud\6.0\src\Colorado.Data\obj\Debug\net6.0\ref\Colorado.Data.dll
